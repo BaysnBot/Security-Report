@@ -28,4 +28,4 @@ The discovery of this data was made by our **Chief Information Security Officer 
 Baysn takes security and privacy seriously. We conduct regular audits and continuously improve our systems to protect user information.  
 
 ## Contact
-For questions about this audit or our security practices, please reach out to **[Discord Server](https://baysn.xyz/invite)**.
+For questions about this audit or our security practices, please reach out to **[Discord Server](https://baysn.xyz/discord)**.
