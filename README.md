@@ -1,4 +1,4 @@
-# Baysn Internal Security Audit – September 9, 2025
+# Baysn Security Audit – 2025
 
 ## Overview
 As part of our commitment to transparency and security, Baysn conducted an audit in our **2025 year**. The audit was designed to assess the security of our systems, including access to sensitive files, user data, and database protection.
